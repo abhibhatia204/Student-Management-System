@@ -1,0 +1,13 @@
+Abhishek Bhatia,1,CSE,4TH
+Anurag Rana,2,ECE,4TH
+Daman Thakur,3,CSE,4TH
+Navi,5,ECE,4TH
+Aman,6,CSE,4TH
+Aditya Devrath,7,IT,4TH
+Akshit,8,IT,3RD
+Aman,9,CSE,4TH
+Abhinav Sharma,14,IT,4TH
+Shagun thakur,16,LAW,4TH
+Kartik Verma,18,EE,1ST
+Arun Kumar,19,CSE,1ST
+DAMAN,20,CSE,1ST
