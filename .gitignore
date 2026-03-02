@@ -1,5 +1,10 @@
 build/
-*.user
+*.exe
+*.log
+*.obj
+*.o
 *.pro.user
 CMakeFiles/
 CMakeCache.txt
+cmake_install.cmake
+Makefile
