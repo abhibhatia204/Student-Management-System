@@ -1,10 +1,27 @@
+# Build folder
 build/
+
+# Executables
 *.exe
-*.log
-*.obj
+
+# Object files
 *.o
+*.obj
+
+# Logs
+*.log
+
+# Qt Creator user files
+*.user
 *.pro.user
+.qtcreator/
+
+# CMake generated files
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+compile_commands.json
+
+# Auto-generated Qt files
+*_autogen/
